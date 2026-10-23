@@ -1,0 +1,6 @@
+{
+  "name": "RescueOS — The Self-Healing Aid Network",
+  "description": "Real-time coordination, dispatch, safety-eligibility, and recovery platform for surplus food, medical supplies, and relief logistics.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
